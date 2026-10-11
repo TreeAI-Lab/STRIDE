@@ -2,7 +2,7 @@
 
 The complete results with standard deviations over three runs are shown below. Each cell reports mean ± std.
 
-![STRG results over three runs](https://raw.githubusercontent.com/thebestFM/STRIDE-1011/main/image/STRG_results.png?v=e4b1240)
+![STRG results over three runs](image/STRG_results.png)
 
 <sub>Note: STRIDE-Structure and HRI (History Repeat Itself) are deterministic methods with no random choices, so their standard deviations are zero (std = 0).</sub>
 
